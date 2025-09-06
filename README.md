@@ -1,2 +1,3 @@
-# EcoFinds-Marketplace
-Hackathon project for oddo x Nmit Hackathon 2025
+Hackathon:  Odoo x NMIT Hackathon 2025  
+Team Name: Brogrammers
+Problem Statement: EcoFinds-Sustainable Second-Hand Marketplace 
